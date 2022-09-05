@@ -36,7 +36,9 @@ Unix based:
 
     mvwn spring-boot:run 
 
-Entrar a localhost:8080
+Entrar a localhost:8080/usuario
+localhost:8080/productos
+localhost:8080/interaccion
 
 
 
